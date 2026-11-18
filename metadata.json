@@ -1,0 +1,6 @@
+{
+  "name": "HUL Shikhar - Kirana Trend AdStudio",
+  "description": "HUL Shikhar retailer app experience with AI-powered trend-based advertisement generator for Kirana store owners to create viral promos, WhatsApp posters, and shop offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
